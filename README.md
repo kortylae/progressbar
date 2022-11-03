@@ -1,5 +1,5 @@
-HTML & CSS Reworked for esx_progressbar
-by kortylae.pl
+ESX_Progressbar
+UI by kortylae.pl
 
 Suport: https://discord.gg/cYx8sFMcG8
 
